@@ -9,8 +9,6 @@ Key Features:
  * Noise floor 500 pV/Hz^-1/2
  * Note: Requires a very low source impedance! Less than 10 Ohm.
 
-![Line injector pcb](images/pcb.png)
-
 The design was done using [KiCAD 7](https://www.kicad.org/).
 
 Mechanical Design
