@@ -6,7 +6,7 @@ This repository contains the schematics and mechanical files for a low noise dif
 Key Features:
  * Bandwidth (-3 dB): 10 Hz - 1.5 MHz
  * Gain: 80 dB (10.000)
- * Noise floor 500 pV/Hz^-1/2
+ * Noise floor $500\text{ pV}/\sqrt{\text{Hz}}$
  * Note: Requires a very low source impedance! Less than 10 Ohm.
 
 The design was done using [KiCAD 7](https://www.kicad.org/).
