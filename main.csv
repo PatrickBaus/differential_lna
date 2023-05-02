@@ -1,0 +1,47 @@
+Source:,/home/maat/Documents/Uni/Physik/Phd/Low Noise Amp/KiCAD/main.sch,,,,,,,
+Date:,2017-03-31T00:32:30 CEST,,,,,,,
+Tool:,Eeschema (2017-01-18 revision 2eb840b2e)-master,,,,,,,
+Component Count:,177,,,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor,,
+"C1, C27, C67, C72, C77, ",5,1u,FCA1206A105M-H3,Capacitors_SMD:C_1206,Unpolarized capacitor,Cornell Dubilier,15,x
+"C2, C3, C68, C69, C73, C74, C78, C79, ",8,33p,12065A330JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,20,x
+"C4, C5, C28, C29, C30, C31, C36, C37, C70, C71, C75, C76, C80, C81, ",14,1u,MKS2C041001F00KC00,Capacitors_ThroughHole:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,Unpolarized capacitor,WIMA,30,x
+"C6, C8, C10, C12, C14, C16, C18, C20, C22, C24, C7, C9, C11, C13, C15, C17, C19, C21, C23, C25, ",20,150u,T491X157K020AT,Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Reflow,Polarised capacitor,Kemet,50,x
+"C26, ",1,2.2n,FKP2D012201D00JSSD,Capacitors_ThroughHole:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,Unpolarized capacitor,WIMA,,
+"C32, C33, ",2,330u,TPSE337M010R0100,Capacitors_Tantalum_SMD:CP_Tantalum_Case-D_EIA-7343-31_Reflow,Polarised capacitor,AVX,5,x
+"C34, C35, ",2,4.7u,MKS2B044701K00KC00,Capacitors_ThroughHole:C_Rect_L7.2mm_W8.5mm_P5.00mm_FKP2_FKP2_MKS2_MKP2,Unpolarized capacitor,WIMA,5,x
+"C38, ",1,120p,12065A121JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,5,x
+"C39, ",1,1.2n,12065A122JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,5,x
+"C40, ",1,100p,12065A101JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,5,x
+"C41, ",1,1n,12065A102JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,5,x
+"C42, ",1,150p,12065A151JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,5,x
+"C43, ",1,1.5n,12065A152JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,5,x
+"C44, ",1,22p,12065A220JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,5,x
+"C45, ",1,220p,12065A221JAT2A,Capacitors_SMD:C_1206,Unpolarized capacitor,AVX,5,x
+"C57, C64, C58, C65, C59, C66, C52, C48, C51, C47, C50, C46, C63, C55, C62, C54, C61, C53, C60, C56, C49, ",21,100u,GRM32ER61A107ME20K,Capacitors_SMD:C_1210,Unpolarized capacitor,Murata,50,x
+"C82, ",2,180u,25SEPF180M,Capacitors_ThroughHole:CP_Radial_D8.0mm_P3.50mm,Polarised capacitor,Panasonic,5,x
+"FID1, FID2, FID3, ",3,FIDUCIAL,,Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop,Fiducial for pick and place maschines,,,
+"J3, J4, J5, J6, ",4,CONN_01X01,,Wire_Pads:SolderWirePad_single_2-5mmDrill,"Connector, single row, 01x01, pin header",,,
+"P2, P1, P3, J1, J2, ",5,SMA,,Connect:SMA_THT_Jack_Straight,,,,
+"Q1, Q2, Q3, Q4, ",4,THAT300,,Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm,NPN Array,,8,x
+"R1, R2, R45, R46, R47, R48, R59, R60, ",8,100,MFR-25FBF52-100R,Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor,Yageo,20,x
+"R3, R4, R35, R36, R49, R50, R61, R62, ",8,49.9,MFR-25FBF52-49R9,Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor,Yageo,20,x
+"R5, R7, R6, R10, R37, R39, R38, R42, R51, R53, R52, R56, R63, R65, R64, R68, ",16,4.02k,MFR-25FBF52-4K02,Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor,Yageo,35,x
+"R9, R8, R41, R40, R55, R54, R67, R66, ",8,1.3k,MFR-25FRF52-1K3,Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor,Yageo,20,x
+"R11, R12, R43, R44, R57, R58, R69, R70, ",8,1k,CPF0805B1K0E,Resistors_SMD:R_0805,Resistor,TE Connectivity,20,x
+"R13, R18, R19, ",3,1k,MFR-25FBF52-1K,Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor,Yageo,5+3,x
+"R14, R15, ",2,249,SFR2500002490FR500,Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor,Vishay,5,x
+"R16, R17, ",2,475,MFR-25FRF52-475R,Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor,Yageo,5,x
+"R20, ",1,1.13k,CRCW12061K13FKEA,Resistors_SMD:R_1206,Resistor,Vishay,10,x
+"R21, ",1,10.2k,CRCW120610K2FKEA,Resistors_SMD:R_1206,Resistor,Vishay,10,x
+"R22, ",1,100,CRCW1206100RFKEA,Resistors_SMD:R_1206,Resistor,Vishay,5,x
+"R23, ",1,1.5k,CRCW12061K50FKEA,Resistors_SMD:R_1206,Resistor,Vishay,5,x
+"R24, R25, ",2,1.69k,CRCW12061K69FKEA,Resistors_SMD:R_1206,Resistor,Vishay,5,x
+"R26, R27, ",2,1.24k,CRCW12061K24FKEA,Resistors_SMD:R_1206,Resistor,Vishay,5,x
+"R28, R29, ",2,4.02k,CRCW12064K02FKEA,Resistors_SMD:R_1206,Resistor,Vishay,5,x
+"R30, R31, ",2,2.15k,CRCW12062K15FKEA,Resistors_SMD:R_1206,Resistor,Vishay,5,x
+"R33, R32, R34, ",3,49.9,CRCW120649R9FKEA,Resistors_SMD:R_1206,Resistor,Vishay,10,x
+"RV1, ",1,1k,3296Y-1-102,Potentiometers:Potentiometer_Trimmer_Bourns_3296Y,Potentionmeter,Bourns,3,x
+"U1, U2, U5, U6, U7, ",5,LT1994,,Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm,"Low Noise, Low Distortion Fully Differential Input/Output Amplifier/Driver",,12,x
+"U3, ",1,LT6232,,Housings_SSOP:SSOP-16_3.9x4.9mm_Pitch0.635mm,"215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA Op Amp",,3,x
+"U4, ",1,LT1365,,Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm,,,2,x

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "THAT-Corporation")(type "KiCad")(uri "${KIPRJMOD}/libraries/THAT Corporation.kicad_sym")(options "")(descr ""))
+  (lib (name "ADI")(type "KiCad")(uri "${KIPRJMOD}/libraries/ADI.kicad_sym")(options "")(descr ""))
+)
